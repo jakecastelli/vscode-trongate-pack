@@ -2,6 +2,7 @@
   "name": "trongate-extension-pack",
   "displayName": "Trongate Extension Pack",
   "description": "This is a beta version of the All in one Trongate Development Kit.",
+  "publisher": "jc-sf",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.43.0"
