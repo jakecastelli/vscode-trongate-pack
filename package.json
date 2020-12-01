@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.43.0"
   },
+  "icon": "all_in_one.png",
+  "repository": {
+    "url": "https://github.com/jakecastelli/vscode-trongate-pack"
+  },
   "categories": [
     "Extension Packs"
   ],
