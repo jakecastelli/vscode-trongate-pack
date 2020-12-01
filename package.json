@@ -1,15 +1,17 @@
 {
   "name": "trongate-extension-pack",
   "displayName": "Trongate Extension Pack",
-  "description": "",
+  "description": "This is a beta version of the All in one Trongate Development Kit.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.51.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "publisher.extensionName"
+    "jc-sf.trongate",
+    "jc-sf.trongate-intellisense",
+    "bmewburn.vscode-intelephense-client"
   ]
 }
