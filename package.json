@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.43.0"
   },
-  "icon": "all_in_one.png",
+  "icon": "logo.png",
   "repository": {
     "url": "https://github.com/jakecastelli/vscode-trongate-pack"
   },
